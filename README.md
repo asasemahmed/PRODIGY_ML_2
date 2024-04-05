@@ -19,7 +19,8 @@ Predict Clusters: Use the predict() method to assign each data point to a cluste
 
 Analyze Results: Analyze the resulting clusters to gain insights into your data. You can visualize the clusters and centroids to understand the underlying patterns.
 
-Contributing✈️💙🚀
+# Contributing✈️💙🚀
+
 Contributions to this project are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 
